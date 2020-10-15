@@ -1,4 +1,4 @@
-package com.kriscfoster.report;
+package com.kriscfoster;
 
 public abstract class Report {
     protected String title;

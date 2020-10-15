@@ -1,4 +1,4 @@
-package com.kriscfoster.report;
+package com.kriscfoster;
 
 import static java.lang.String.format;
 
